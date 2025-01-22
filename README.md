@@ -2,6 +2,7 @@
 An AI Article Summarizer Website<br/>
 <br/>
 📋 Table of Contents<br/>
+<br/>
 🤖 Introduction<br/>
 ⚙️ Tech Stack<br/>
 🔋 Features<br/>
