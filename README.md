@@ -11,7 +11,8 @@ Summarize any kind of article with just one click using the powerful OpenAI mode
 ## ⚙️ Tech Stack  
 - React.js  
 - Redux Toolkit  
-- Tailwind CSS  
+- Tailwind CSS
+- Javascript
 
 ## 🔋 Features  
 👉 **Modern User Interface**:  
