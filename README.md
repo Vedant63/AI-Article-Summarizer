@@ -14,7 +14,6 @@ An AI Article Summarizer Website<br/>
 🤖 Introduction<br/>
 Summarize any kind of article with just one click using the powerful OpenAI model.
 <br/>
-
 ⚙️ Tech Stack<br/>
 React.js<br/>
 TypeScript<br/>
@@ -34,7 +33,5 @@ Tailwind CSS<br/>
 <br/>
 and many more, including code architecture and reusability
 <br/>
-🤸 Quick Start<br/>
-Follow these steps to set up the project locally on your machine.<br/>
-<br/>
+
 
