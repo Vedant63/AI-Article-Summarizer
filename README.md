@@ -1,61 +1,40 @@
 
 An AI Article Summarizer Website<br/>
-📋 Table of Contents
-🤖 Introduction
-⚙️ Tech Stack
-🔋 Features
-🤸 Quick Start
-🕸️ Snippets
-🔗 Links
-🚀 More
-🤖 Introduction
+<br/>
+📋 Table of Contents<br/>
+🤖 Introduction<br/>
+⚙️ Tech Stack<br/>
+🔋 Features<br/>
+🤸 Quick Start<br/>
+🕸️ Snippets<br/>
+🔗 Links<br/>
+🚀 More<br/>
+
+<br/>
+🤖 Introduction<br/>
 Summarize any kind of article with just one click using the powerful OpenAI model.
+<br/>
 
-⚙️ Tech Stack
-React.js
-TypeScript
-Redux Toolkit
-Tailwind CSS
-🔋 Features
+⚙️ Tech Stack<br/>
+React.js<br/>
+TypeScript<br/>
+Redux Toolkit<br/>
+Tailwind CSS<br/>
+<br/>
+🔋 Features<br/>
 👉 Modern User Interface: A modern and user-friendly interface, offering an intuitive experience for users.
-
+<br/>
 👉 Summary Generation: Users can input the URL of a lengthy article, and the web app utilizes AI to provide a concise summary of the article content.
-
+<br/>
 👉 History Saving with Local Storage: The app includes a history feature, allowing users to save summaries locally, providing a convenient way to revisit and manage their reading history.
-
+<br/>
 👉 Copy to Clipboard Functionality: Enables users to easily share or store the summarized content by copying it to their clipboard.
-
+<br/>
 👉 Advanced RTK Query API Requests: Utilizes the advanced capabilities of Redux Toolkit (RTK) Query for making API requests. These requests fire conditionally based on specific criteria, optimizing data fetching and management.
-
+<br/>
 and many more, including code architecture and reusability
+<br/>
+🤸 Quick Start<br/>
+Follow these steps to set up the project locally on your machine.<br/>
+<br/>
 
-🤸 Quick Start
-Follow these steps to set up the project locally on your machine.
-
-Prerequisites
-
-Make sure you have the following installed on your machine:
-
-Git
-Node.js
-npm (Node Package Manager)
-Installation
-
-Install the project dependencies using npm:
-
-npm install
-Set Up Environment Variables
-
-Create a new file named .env in the root of your project and add the following content:
-
-VITE_RAPID_API_ARTICLE_KEY=
-Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the [Rapid API website]
-
-Running the Project
-
-npm run dev
-Open http://localhost:5173 in your browser to view the project.
-
-🕸️ Snippets
-App.css
-index.html
